@@ -4,8 +4,6 @@
 
 Music credits: https://pixabay.com/music/beats-lofi-background-music-326931/
 
----
-
 ## ✨ Features
 
 -  **Character Customization**: Choose between animal colors (currently white, pink, black, orange for both animals), and toggle cute accessories.
@@ -15,10 +13,8 @@ Music credits: https://pixabay.com/music/beats-lofi-background-music-326931/
 -  **Ambient Music** *(optional)*: Background sound for full cozy-core immersion.
 -  **Cybersecurity Touches**: Password hashing (Argon2) and basic login screen implementation — cute *and* secure.
 
----
-
 ##  💖 Credits
 
-Inspired by Sanrio
-Developed by Ryan Fanick
-Raylib by @raysan5 
+- Inspired by Sanrio
+- Developed by Ryan Fanick
+- Raylib by @raysan5 
