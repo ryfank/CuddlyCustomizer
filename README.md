@@ -8,8 +8,8 @@ Music credits: https://pixabay.com/music/beats-lofi-background-music-326931/
 
 -  **Character Customization**: Choose between animal colors (currently white, pink, black, orange for both animals), and toggle cute accessories.
 -  **Secure Outfit Saving**: Save your creations with AES-style encryption and password protection.
-- **Animated Fireflies**: A dreamy space environment with glowing animated fireflies.
-- **Modular UI**: Clean UI system with tab navigation and future expandability (color palettes, accessory packs).
+- **Animated Fireflies**: A dreamy dawn environment with glowing animated fireflies.
+- **Modular UI**: Clean UI system with tab navigation and future expandability (color palettes, accessories).
 -  **Ambient Music** *(optional)*: Background sound for full cozy-core immersion.
 -  **Cybersecurity Touches**: Password hashing (Argon2) and basic login screen implementation — cute *and* secure.
 
