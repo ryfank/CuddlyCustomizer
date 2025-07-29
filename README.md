@@ -1,6 +1,6 @@
 # 🌟 Cuddly Customizer 🐾
 
-**Cuddly Customizer** is a Sanrio inspired pet customizer game built with [Raylib], featuring an animated environment, interactive UI, encrypted outfit saving, and a pinch of cybersecurity added. Customize your adorable space animal with color options, accessories, and glowy fireflies! This home made game was all made from scratch, the animal sprites, background, and clothing all created and coded by me. 
+**Cuddly Customizer** is a Sanrio inspired pet customizer game built with [Raylib], featuring an animated environment, interactive UI, encrypted outfit saving, and a pinch of cybersecurity added. Customize your adorable animal with color options, accessories, and glowy fireflies! This home made game was all made from scratch, the animal sprites, background, and clothing all created and coded by me. 
 
 Music credits: https://pixabay.com/music/beats-lofi-background-music-326931/
 
