@@ -13,6 +13,12 @@ Music credits: https://pixabay.com/music/beats-lofi-background-music-326931/
 -  **Ambient Music** *(optional)*: Background sound for full cozy-core immersion.
 -  **Cybersecurity Touches**: Password hashing (Argon2) and basic login screen implementation — cute *and* secure.
 
+## Still work in progress
+- This has some bugs but the login works, and so does changing the species
+- I am still working on adding clothing and changing colour of animal
+- username: test
+- password: 1234
+
 ##  Credits
 
 - Inspired by Sanrio
