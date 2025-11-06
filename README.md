@@ -18,12 +18,13 @@ Music credits: https://pixabay.com/music/beats-lofi-background-music-326931/
 
 ## Preview
 
-**Login Screen** 
+**Login Screen:**
 
 ![2025-11-06 11 58 58](https://github.com/user-attachments/assets/ac274037-8b6a-47b5-8b9c-73b663675f02)
 
 
-**Gameplay**
+**Gameplay:** 
+
 ![2025-11-06 11 59 47](https://github.com/user-attachments/assets/0d3107cf-672f-4adb-8728-6e104655563a)
 
 
