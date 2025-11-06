@@ -21,4 +21,3 @@ std::string LoginManager::hashPassword(const std::string& password) {
     std::hash<std::string> hasher;
     return std::to_string(hasher(password));
 }
-

@@ -14,7 +14,7 @@ bool ShowLoginScreen(std::string& encryptionKey, LoginManager& loginManager, Tex
     Rectangle passwordBox = { 500, 440, 400, 50 };
     Rectangle loginButton = { 580, 540, 240, 50 };
 
-    Texture2D logo = LoadTexture("../assets/logo.png"); // Adjust path if needed
+    Texture2D logo = LoadTexture("assets/Logo.png"); // Fixed path
     Fireflies::Init(GetScreenWidth(), GetScreenHeight(), 80);
 
     while (!WindowShouldClose()) {
