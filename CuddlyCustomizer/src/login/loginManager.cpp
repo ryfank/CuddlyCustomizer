@@ -16,7 +16,7 @@ void LoginManager::addUser(const std::string& username, const std::string& passw
     credentials[username] = hashPassword(password);
 }
 
-// Simple hash placeholder (replace with real hash like Argon2 or SHA256 later)
+
 std::string LoginManager::hashPassword(const std::string& password) {
     std::hash<std::string> hasher;
     return std::to_string(hasher(password));
